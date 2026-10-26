@@ -1,0 +1,6 @@
+# 中文：设置应用的显示主题。
+# English: Configure the application's visual theme.
+[theme]
+# 中文：采用用户选定的Streamlit内置深色主题。
+# English: Use the user-selected built-in Streamlit dark theme.
+base = "dark"
